@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Logo/Hose.jpg</file>
+        <file>Logo/shanChuan.jpg</file>
+        <file>Logo/shangHai.jpg</file>
+        <file>Logo/wanXia.jpg</file>
+        <file>Logo/passwd.jpg</file>
+        <file>Logo/userName.jpg</file>
+        <file>Logo/bid.png</file>
+        <file>Logo/sell.png</file>
+        <file>Logo/www.png</file>
+        <file>Logo/a.jpg</file>
+        <file>Logo/d.jpg</file>
+        <file>Logo/f.jpg</file>
+        <file>Logo/r.jpg</file>
+        <file>Logo/s.jpg</file>
+        <file>Logo/t.jpg</file>
+    </qresource>
+</RCC>
